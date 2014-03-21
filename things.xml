@@ -1,0 +1,319 @@
+<things>
+  <item>
+    <name>el ultimo album de Shakira</name>
+    <cond>sound</cond>
+  </item>
+  <item>
+    <name>el ultimo de metallica</name>
+    <cond>sound</cond>
+  </item>
+  <item>
+    <name>el ultimo de metallica</name>
+    <cond>sound</cond>
+  </item>
+  <item>
+    <name>el ultimo de Adele</name>
+    <cond>sound</cond>
+  </item>
+  <item>
+    <name>un informe urgente</name>
+    <cond>work</cond>
+  </item>
+  <item>
+    <name>un informe urgente</name>
+    <cond>work</cond>
+  </item>
+  <item>
+    <name>unas misiones super dificiles de DayZ </name>
+    <cond>game</cond>
+  </item>
+  <item>
+    <name>el pedido en el supermercado</name>
+    <cond>food</cond>
+  </item>
+  <item>
+    <name>guitarra</name>
+    <cond>music</cond>
+  </item>
+  <item>
+    <name>bajo</name>
+    <cond>music</cond>
+  </item>
+  <item>
+    <name>bateria</name>
+    <cond>music</cond>
+  </item>
+  <item>
+    <name>el pedido en el supermercado</name>
+    <cond>food</cond>
+  </item>
+  <item>
+    <name>miles de cosas para el departamento</name>
+    <cond>shop</cond>
+  </item>
+  <item>
+    <name>unas cosas para la pega</name>
+    <cond>shop</cond>
+  </item>
+  <item>
+    <name>unas cosas</name>
+    <cond>work</cond>
+  </item>
+  <item>
+    <name>un codigo spaghetti</name>
+    <cond>code</cond>
+  </item>
+  <item>
+    <name>los DVDs que tengo tirados por todos lados</name>
+    <cond>living</cond>
+  </item>
+  <item>
+    <name>la cena de a~o nuevo</name>
+    <cond>cook</cond>
+  </item>
+  <item>
+    <name>la cena de a~o nuevo</name>
+    <cond>cook</cond>
+  </item>
+  <item>
+    <name>la logistica de la empresa ma~ana</name>
+    <cond>vehicle</cond>
+  </item>
+    
+  <item>
+    <name>Battlefield 3</name>
+    <cond>game</cond>
+  </item>
+  <item>
+    <name>Modern Warfare 3</name>
+    <cond>game</cond>
+  </item>
+  <item>
+    <name>DOTA</name>
+    <cond>game</cond>
+  </item>
+  <item>
+    <name>Left4Dead</name>
+    <cond>game</cond>
+  </item>
+  <item>
+    <name>mi departamento</name>
+    <cond>living</cond>
+  </item>
+  <item>
+    <name>un codigo que empece justo hoy</name>
+    <cond>code</cond>
+  </item>
+  <item>
+    <name>el departamento</name>
+    <cond>living</cond>
+  </item>
+ <item>
+    <name>el departamento</name>
+    <cond>living</cond>
+  </item>
+  <item>
+    <name>la casa de mis viejos</name>
+    <cond>living</cond>
+  </item>
+  <item>
+    <name>el departamento de mi hermana</name>
+    <cond>living</cond>
+  </item>
+  <item>
+    <name>un codigo que le quedo a medio hacer</name>
+    <cond>code</cond>
+  </item>
+  <item>
+    <name>un generador de excusas que esta haciendo el jci</name>
+    <cond>code</cond>
+  </item>
+  <item>
+    <name>el himno del colegio</name>
+    <cond>misc</cond>
+  </item>
+  <item>
+    <name>un poema</name>
+    <cond>misc</cond>
+  </item>
+  <item>
+    <name>el auto</name>
+    <cond>vehicle</cond>
+  </item>
+  <item>
+    <name>a programar en PHP para el viernes</name>
+    <cond>misc</cond>
+  </item>
+  <item>
+    <name>a programar en Cobol para el jueves</name>
+    <cond>misc</cond>
+  </item>
+  <item>
+    <name>a hacer origamis</name>
+    <cond>misc</cond>
+  </item>
+  <item>
+    <name>a doblar la ropa</name>
+    <cond>misc</cond>
+  </item> 
+  <item>
+    <name>a hacer un generador de excusas online</name>
+    <cond>misc</cond>
+  </item>
+  <item>
+    <name>el horno que se me quedo encendido</name>
+    <cond>forgot</cond>
+  </item>
+  <item>
+    <name>el televisor que deje encendido</name>
+    <cond>forgot</cond>
+  </item>
+  <item>
+    <name>la secadora que deje encendida</name>
+    <cond>forgot</cond>
+  </item>
+  <item>
+    <name>el helicoptero de la empresa ma~ana</name>
+    <cond>vehicle</cond>
+  </item>
+  <item>
+    <name>la camioneta de la empresa bien temprano</name>
+    <cond>vehicle</cond>
+  </item>
+  <item>
+    <name>la limosina de mi jefe</name>
+    <cond>vehicle</cond>
+  </item>
+  <item>
+    <name>la moto de mi primo ma~ana</name>
+    <cond>vehicle</cond>
+  </item>
+  <item>
+    <name>el furgon escolar ma~ana</name>
+    <cond>vehicle</cond>
+  </item>
+  <item>
+    <name>a manejar un helicoptero</name>
+    <cond>misc</cond>
+  </item>
+  <item>
+    <name>de manejo ma~ana temprano</name>
+    <cond>teach</cond>
+  </item>
+  <item>
+    <name>de guitarra ma~ana</name>
+    <cond>teach</cond>
+  </item>
+  <item>
+    <name>las caquitas de los perros</name>
+    <cond>living</cond>
+  </item>
+  <item>
+    <name>la ropa sucia que tengo acumulada</name>
+    <cond>cloth</cond>
+  </item>
+  <item>
+    <name>la loza del departamento</name>
+    <cond>living</cond>
+  </item>
+  <item>
+    <name>el almuerzo de ma~ana</name>
+    <cond>cook</cond>
+  </item>
+  <item>
+    <name>el almuerzo</name>
+    <cond>cook</cond>
+  </item>
+  <item>
+    <name>un par de temas</name>
+    <cond>band</cond>
+  </item>
+  <item>
+    <name>las plantas del departamento</name>
+    <cond>plants</cond>
+  </item>
+  <item>
+    <name>las plantas de mi abuelita</name>
+    <cond>plants</cond>
+  </item>
+  <item>
+    <name>los maceteros de mi mama</name>
+    <cond>plants</cond>
+  </item>
+  <item>
+    <name>las plantas del invernadero</name>
+    <cond>plants</cond>
+  </item>
+  <item>
+    <name>miles de cosas</name>
+    <cond>work</cond>
+  </item>
+  <item>
+    <name>miles de cosas</name>
+    <cond>work</cond>
+  </item>
+  <item>
+    <name>un par de temas que queremos tocar la proxima semana</name>
+    <cond>band</cond>
+  </item>
+  <item>
+    <name>a racionalizar entre lo abyecto y lo sumiso</name>
+    <cond>misc</cond>
+  </item>
+  <item>
+    <name>con mis jefes mas rato</name>
+    <cond>eat</cond>
+  </item>
+  <item>
+    <name>con mis sobrinos</name>
+    <cond>eat</cond>
+  </item>
+  <item>
+    <name>un cuadro que le prometi a mi hermana</name>
+    <cond>living</cond>
+  </item>
+  <item>
+    <name>a leer</name>
+    <cond>misc</cond>
+  </item>
+  <item>
+    <name>programacion</name>
+    <cond>misc</cond>
+  </item>
+  <item>
+    <name>un reporte muy importante</name>
+    <cond>work</cond>
+  </item>
+  <item>
+    <name>las plantitas</name>
+    <cond>plants</cond>
+  </item>
+  <item>
+    <name>unos temitas que me aprendi</name>
+    <cond>band</cond>
+  </item>
+  <item>
+    <name>las canciones del album que vamos a grabar</name>
+    <cond>band</cond>
+  </item>
+  <item>
+    <name>unos arreglos corales</name>
+    <cond>band</cond>
+  </item>
+  <item>
+    <name>la terraza</name>
+    <cond>clean</cond>
+  </item>
+  <item>
+    <name>el planeta de la injusticia!</name>
+    <cond>hero</cond>
+  </item>
+  <item>
+    <name>este planeta de su inminente destruccion!</name>
+    <cond>hero</cond>
+  </item>
+  <item>
+    <name>unos huerfanos de un bus en llamas!</name>
+    <cond>hero</cond>
+  </item>
+</things>
