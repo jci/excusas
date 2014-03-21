@@ -7,8 +7,6 @@ $mydest=simplexml_load_file("with.xml");
 
 $randomexc=rand(0,count($myverbs)-1);
 
-// pick
-
 $excv=$myverbs->item[$randomexc]->name;
 $excr=$myverbs->item[$randomexc]->cond;
 $exprew=$myverbs->item[$randomexc]->extra;
@@ -29,11 +27,8 @@ foreach($myitems as $tempval) {
 $expred="";
 if ($ffffff>0)
 {
-  //print $ffffff;
   $randm=rand(0,count($excll)-1);
   $expred=$excll[$randm];
-  //  $exprew=$exclw[$randm];
-  // de ahi cambiar exprew
   if ($exprew)
     {
 	  $excwho=$mydest->item[rand(0,count($mydest)-1)];
