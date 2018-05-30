@@ -1,4 +1,4 @@
-<?
+<?php
 
 $myverbs=simplexml_load_file("verbos.xml");
 $myitems=simplexml_load_file("things.xml");
