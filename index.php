@@ -1,5 +1,17 @@
 <?php
 
+function json_response($message = null)
+{
+    header_remove();
+    http_response_code(200);
+    header('Content-Type: application/json');
+    header('Status: 200 OK');
+
+    return json_encode([
+        'excuse' => $message
+    ]);
+}
+
 $myverbs=simplexml_load_file("verbos.xml");
 $myitems=simplexml_load_file("things.xml");
 $mydest=simplexml_load_file("with.xml");
@@ -59,13 +71,14 @@ if ($ffffff>0)
   }
 
 
-print "<div align='center'><h2>Diablos! Tengo que...</h2>\n";
+// print "<div align='center'><h2>Diablos! Tengo que...</h2>\n";
 
 if ($_GET["v"]=="easter")
 {
-  $pred = " CON TU HERMANA!";
+  $pred = "CON TU HERMANA!";
 }
 
+echo json_response("$excv $expred $pred"); exit();
 print "<h1>$excv $expred $pred</h1>";
 
 ?>
